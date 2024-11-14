@@ -5,8 +5,8 @@
 - 📫 How to reach me lakshyakumar0098@gmail.com
 
 <div align="center" style="margin:10px;">
-	<a href="https://gh-readme-profile.vercel.app/api?username=Lakshyakumar266&theme=github_dark_dimmed&border_color=00e421">
-		<img src="https://gh-readme-profile.vercel.app/api?username=Lakshyakumar266&theme=github_dark_dimmed&border_color=00e421" alt="GitHub Stats">
+	<a href="https://gh-readme-profile.vercel.app/api?username=Lakshyakumar266&theme=github_dark&border_color=00e421">
+		<img src="https://gh-readme-profile.vercel.app/api?username=Lakshyakumar266&theme=github_dark&border_color=00e421" alt="GitHub Stats">
 	</a>
 </div>
 
