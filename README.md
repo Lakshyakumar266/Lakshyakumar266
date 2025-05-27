@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on freelancing
 - 📫 How to reach me lakshyakumar0098@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lakshyakumar266&label=Profile%20views&color=0e75b6&style=flat&base=284" alt="lakshyakumar266" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lakshyakumar266&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyakumar266" /> </p>
 
 <div align="center" style="margin:10px;">
 	<a href="https://gh-readme-profile.vercel.app/api?username=Lakshyakumar266&theme=github_dark&border_color=00e421">
