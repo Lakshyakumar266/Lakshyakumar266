@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lakshyakumar266
-- 👀 I’m interested in Programing
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning languages
 - 💞️ I’m looking to collaborate on freelancing
-- 📫 How to reach me lakshyakumar0098@gmail.com
+- 📫 How to reach me: lakshyakumar0098@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lakshyakumar266&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyakumar266" /> </p>
 
