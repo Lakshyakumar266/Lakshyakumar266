@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshya Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer • Co-Founder & CTO of HermesWorkspace
+Full Stack Developer
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Building scalable SaaS products, AI-powered applications, and high-performance s
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Co-Founder+%26+CTO+of+HermesWorkspace;React+%7C+Next.js+%7C+React+Native;Bun+%7C+Node.js+%7C+TypeScript;DevOps+%7C+Docker+%7C+Linux;WebRTC+%7C+Mediasoup+%7C+System+Design;Building+Scalable+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+React+Native;Bun+%7C+Node.js+%7C+TypeScript;DevOps+%7C+Docker+%7C+Linux;WebRTC+%7C+Mediasoup+%7C+System+Design;Building+Scalable+Products" />
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@ Building scalable SaaS products, AI-powered applications, and high-performance s
 
 # 🚀 About Me
 
-- 🚀 Co-Founder & CTO of **HermesWorkspace**
 - 💻 Passionate Full Stack Developer
 - 🏗 Building scalable SaaS products
 - 🌱 Currently learning Distributed Systems, AI & Cloud Architecture
