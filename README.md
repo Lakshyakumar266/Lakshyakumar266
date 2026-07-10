@@ -139,27 +139,19 @@ Building scalable SaaS products, AI-powered applications, and high-performance s
 
 # 🤝 Connect With Me
 
-<p align="left">
-
+<p align="center">
 <a href="mailto:lakshyakumar0098@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-<!-- Add these after replacing with your profiles -->
-
 <a href="https://linkedin.com/in/Lakshyakumar266">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://twitter.com/Lakshyakumar266">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
-
 <a href="https://hermesworkspace.com">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome"/>
+  <img src="https://img.shields.io/badge/HermesWorkspace-Co--building-161B22?style=flat-square&logo=vercel&logoColor=white" />
 </a>
-
-
 </p>
 
 ---
