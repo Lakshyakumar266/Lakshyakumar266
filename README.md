@@ -91,7 +91,7 @@ Building scalable SaaS products, AI-powered applications, and high-performance s
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,discord,notion,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,discord,notion,git,github,slack,exciledraw" />
 </p>
 
 ---
