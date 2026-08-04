@@ -98,13 +98,6 @@ Building scalable SaaS products, AI-powered applications, and high-performance s
 
 # 📊 GitHub Statistics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lakshyakumar266&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshyakumar266&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Lakshyakumar266&theme=github-dark&hide_border=true"/>
