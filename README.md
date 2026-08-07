@@ -20,8 +20,8 @@ Building scalable SaaS products, AI-powered applications, and high-performance s
 
 # 🚀 About Me
 
-- 💻 Passionate Full Stack Developer
-- 🏗 Building scalable SaaS products
+- 💻 Full Stack Developer
+- 🏗 Building scalable products
 - 🌱 Currently learning Distributed Systems, AI & Cloud Architecture
 - 🤝 Open Source Contributor
 - 💬 Ask me about **React, Next.js, React Native, Bun, TypeScript, Backend, DevOps**
