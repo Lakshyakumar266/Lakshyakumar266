@@ -103,13 +103,13 @@ Building scalable SaaS products, AI-powered applications, and high-performance s
 <img src="https://streak-stats.demolab.com?user=Lakshyakumar266&theme=github-dark&hide_border=true"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshyakumar266&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Lakshyakumar266&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7"/>
-</p>
+</p> -->
 
 ---
 
