@@ -24,7 +24,7 @@ Building scalable SaaS products, AI-powered applications, and high-performance s
 - 🏗 Building scalable products
 - 🌱 Currently learning Distributed Systems, AI & Cloud Architecture
 - 🤝 Open Source Contributor
-- 💬 Ask me about **React, Next.js, React Native, Bun, TypeScript, Backend, DevOps**
+- 💬 Ask me about **React, Next.js, React Native, Bun, TypeScript, Rust, Backend, DevOps**
 - 📫 **lakshyakumar0098@gmail.com**
 
 ---
