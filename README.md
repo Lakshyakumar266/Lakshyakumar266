@@ -57,7 +57,7 @@ Building scalable SaaS products, AI-powered applications, and high-performance s
 <img src="https://skillicons.dev/icons?i=nodejs,bun,express,nestjs,fastapi" />
 </p>
 
-### Database
+### Database 
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma,supabase,firebase" />
