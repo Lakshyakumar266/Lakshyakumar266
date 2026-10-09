@@ -32,15 +32,16 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
-
+          
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&title_color=F7768E&text_color=C0CAF5&bg_color=16161E&langs_count=8
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&title_color=F7768E&text_color=C0CAF5&bg_color=16161E&langs_count=8&hide=jupyter%20notebook,html,php,scss,css
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
 
       - name: Commit updated cards
         run: |
