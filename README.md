@@ -39,6 +39,13 @@ I'm a self-taught developer interested in building products from the ground up �
 - **Ask me about:** TypeScript, React, Next.js, React Native, Bun, Rust, backend engineering, and DevOps.
 - **Reach me:** [lakshyakumar0098@gmail.com](mailto:lakshyakumar0098@gmail.com)
 
+### 1.1 · My work so far
+
+- [**HermesWorkspace**](https://hermesworkspace.com) · co-founder & CTO, 2026  
+  Built a Mediasoup SFU architecture for classroom-scale WebRTC, with simulcast on web clients, H.264 for native, and separate class, meeting, and webinar media flows. Designed multi-node SFU deployment with meeting-to-node affinity, Redis-backed presence and pub/sub, and cursor-based WebSocket message pagination across a TypeScript/Fastify monorepo serving four web apps and a React Native client.
+
+---
+
 ## 02 · Tech Stack
 
 ### Languages
