@@ -13,7 +13,7 @@ Building scalable SaaS products, AI-powered applications, and high-performance s
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshyakumar266&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Lakshyakumar266&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -110,6 +110,16 @@ Building scalable SaaS products, AI-powered applications, and high-performance s
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Lakshyakumar266&theme=darkhub&no-frame=true&margin-w=10&row=1&column=7"/>
 </p> -->
+
+<!-- GitHub Stats - generated daily by .github/workflows/profile-stats.yml -->
+<p align="center">
+<a href="https://github.com/cheese-cakee">
+  <img src="./profile/stats.svg" height="180">
+</a>
+<a href="https://github.com/cheese-cakee">
+  <img src="./profile/top-langs.svg" height="180">
+</a>
+</p>
 
 ---
 
