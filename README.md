@@ -13,15 +13,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshyakumar266&label=PROFILE+VIEWS&color=F7768E&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Lakshyakumar266&label=PROFILE+VIEWS&color=F7768E&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
+ <p align="center">
+  <a href="https://lakxhya.in">Portfolio</a>
+  &nbsp; Â· &nbsp;
   <a href="mailto:lakshyakumar0098@gmail.com">Email</a>
   &nbsp; Â· &nbsp;
-  <a href="https://linkedin.com/in/Lakshyakumar266">LinkedIn</a>
-  &nbsp; Â· &nbsp;
-  <a href="https://github.com/Lakshyakumar266">GitHub</a>
+  <a href="https://x.com/Lakshyakumar266">X / twitter</a>
   &nbsp; Â· &nbsp;
   <a href="https://hermesworkspace.com">HermesWorkspace</a>
 </p>
@@ -64,8 +65,8 @@ I'm a self-taught developer interested in building products from the ground up â
 
 <p>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=7DCFFF" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-292E42?style=flat-square&logo=expo&logoColor=C0CAF5" alt="Expo" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=7DCFFF" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-292E42?style=for-the-badge&logo=expo&logoColor=C0CAF5" alt="Expo" />
 </p>
 
 ### Backend & Runtime
@@ -90,19 +91,19 @@ I'm a self-taught developer interested in building products from the ground up â
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI and machine learning" />
-  <img src="https://img.shields.io/badge/OpenAI-24283B?style=flat-square&logo=openai&logoColor=C0CAF5" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic-24283B?style=flat-square&logo=anthropic&logoColor=BB9AF7" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/Google_Gemini-24283B?style=flat-square&logo=googlegemini&logoColor=7DCFFF" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI-24283B?style=for-the-badge&logo=openai&logoColor=C0CAF5" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-24283B?style=for-the-badge&logo=anthropic&logoColor=BB9AF7" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Google_Gemini-24283B?style=for-the-badge&logo=googlegemini&logoColor=7DCFFF" alt="Google Gemini" />
 </p>
 
 ### APIs & Real-Time Systems
 
 <p>
-  <img src="https://img.shields.io/badge/WebRTC-24283B?style=flat-square&logo=webrtc&logoColor=7DCFFF" alt="WebRTC" />
-  <img src="https://img.shields.io/badge/Mediasoup-24283B?style=flat-square&logoColor=F7768E" alt="Mediasoup" />
-  <img src="https://img.shields.io/badge/WebSockets-24283B?style=flat-square&logo=socketdotio&logoColor=C0CAF5" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/REST_API-24283B?style=flat-square&logoColor=7DCFFF" alt="REST API" />
-  <img src="https://img.shields.io/badge/GraphQL-24283B?style=flat-square&logo=graphql&logoColor=BB9AF7" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/WebRTC-24283B?style=for-the-badge&logo=webrtc&logoColor=7DCFFF" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Mediasoup-24283B?style=for-the-badge&logoColor=F7768E" alt="Mediasoup" />
+  <img src="https://img.shields.io/badge/WebSockets-24283B?style=for-the-badge&logo=socketdotio&logoColor=C0CAF5" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/REST_API-24283B?style=for-the-badge&logoColor=7DCFFF" alt="REST API" />
+  <img src="https://img.shields.io/badge/GraphQL-24283B?style=for-the-badge&logo=graphql&logoColor=BB9AF7" alt="GraphQL" />
 </p>
 
 ### Developer Tools
@@ -142,17 +143,20 @@ I'm a self-taught developer interested in building products from the ground up â
 ## 04 Â· Core Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-24283B?style=flat-square&logo=react&logoColor=7DCFFF" alt="React" />
-  <img src="https://img.shields.io/badge/Bun-24283B?style=flat-square&logo=bun&logoColor=F7768E" alt="Bun" />
-  <img src="https://img.shields.io/badge/PostgreSQL-24283B?style=flat-square&logo=postgresql&logoColor=7DCFFF" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-24283B?style=flat-square&logo=docker&logoColor=7DCFFF" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-24283B?style=flat-square&logo=linux&logoColor=C0CAF5" alt="Linux" />
-  <img src="https://img.shields.io/badge/WebRTC-24283B?style=flat-square&logo=webrtc&logoColor=BB9AF7" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-24283B?style=for-the-badge&logo=react&logoColor=7DCFFF" alt="React" />
+  <img src="https://img.shields.io/badge/Bun-24283B?style=for-the-badge&logo=bun&logoColor=F7768E" alt="Bun" />
+  <img src="https://img.shields.io/badge/PostgreSQL-24283B?style=for-the-badge&logo=postgresql&logoColor=7DCFFF" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-24283B?style=for-the-badge&logo=docker&logoColor=7DCFFF" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-24283B?style=for-the-badge&logo=linux&logoColor=C0CAF5" alt="Linux" />
+  <img src="https://img.shields.io/badge/WebRTC-24283B?style=for-the-badge&logo=webrtc&logoColor=BB9AF7" alt="WebRTC" />
 </p>
 
 ## 05 Â· Connect
 <p align="center">
+<a href="https://lakxhya.in">
+  <img src="https://img.shields.io/badge/Portfolio-F7768E?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="mailto:lakshyakumar0098@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -163,7 +167,7 @@ I'm a self-taught developer interested in building products from the ground up â
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 <a href="https://hermesworkspace.com">
-  <img src="https://img.shields.io/badge/HermesWorkspace-Co--building-161B22?style=flat-square&logo=vercel&logoColor=white" alt="HermesWorkspace"/>
+  <img src="https://img.shields.io/badge/HermesWorkspace-Co--building-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="HermesWorkspace"/>
 </a>
 </p>
 
