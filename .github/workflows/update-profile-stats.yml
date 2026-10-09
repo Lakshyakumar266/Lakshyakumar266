@@ -28,18 +28,18 @@ jobs:
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&title_color=F7768E&icon_color=BB9AF7&text_color=C0CAF5&bg_color=16161E&include_all_commits=true
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&hide_border=true&title_color=F7768E&icon_color=BB9AF7&text_color=C0CAF5&bg_color=16161E&include_all_commits=true&count_private=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
           
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&title_color=F7768E&text_color=C0CAF5&bg_color=16161E&langs_count=8&hide=jupyter%20notebook,php,scss,css,pug
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&title_color=F7768E&text_color=C0CAF5&bg_color=16161E&langs_count=8&count_private=true&hide=jupyter%20notebook,php,scss,css,pug
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
 
 
